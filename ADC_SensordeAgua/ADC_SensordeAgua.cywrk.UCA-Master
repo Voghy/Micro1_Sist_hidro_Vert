@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="ADC_SensordeAgua\Agua_Copy_01\Header Files\SIST_HIDRO.h">
+<ExpandedNodeIds>
+<v>ADC_SensordeAgua</v>
+<v>ADC_SensordeAgua\Agua\TopDesign</v>
+<v>ADC_SensordeAgua\Agua\Agua.cydwr</v>
+<v>ADC_SensordeAgua\Agua\Agua.cydwr\Pins</v>
+<v>ADC_SensordeAgua\Agua\Agua.cydwr\Analog</v>
+<v>ADC_SensordeAgua\Agua\Agua.cydwr\Clocks</v>
+<v>ADC_SensordeAgua\Agua\Agua.cydwr\Interrupts</v>
+<v>ADC_SensordeAgua\Agua\Agua.cydwr\DMA</v>
+<v>ADC_SensordeAgua\Agua\Agua.cydwr\System</v>
+<v>ADC_SensordeAgua\Agua\Agua.cydwr\Directives</v>
+<v>ADC_SensordeAgua\Agua\Agua.cydwr\Flash Security</v>
+<v>ADC_SensordeAgua\Agua\Agua.cydwr\EEPROM</v>
+<v>ADC_SensordeAgua\Agua\Header Files</v>
+<v>ADC_SensordeAgua\Agua\Header Files\cyapicallbacks.h</v>
+<v>ADC_SensordeAgua\Agua\Header Files\SIST_HIDRO.h</v>
+<v>ADC_SensordeAgua\Agua\Source Files</v>
+<v>ADC_SensordeAgua\Agua\Source Files\ESP.c</v>
+<v>ADC_SensordeAgua\Agua\Source Files\main.c</v>
+<v>ADC_SensordeAgua\Agua\Source Files\Sensores.c</v>
+<v>ADC_SensordeAgua\Agua\Generated_Source</v>
+<v>ADC_SensordeAgua\Agua\Generated_Source\PSoC5</v>
+<v>ADC_SensordeAgua\Agua_Copy_01</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\TopDesign</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\Agua_Copy_01.cydwr</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\Agua_Copy_01.cydwr\Pins</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\Agua_Copy_01.cydwr\Analog</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\Agua_Copy_01.cydwr\Clocks</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\Agua_Copy_01.cydwr\Interrupts</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\Agua_Copy_01.cydwr\DMA</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\Agua_Copy_01.cydwr\System</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\Agua_Copy_01.cydwr\Directives</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\Agua_Copy_01.cydwr\Flash Security</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\Agua_Copy_01.cydwr\EEPROM</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\Header Files</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\Header Files\cyapicallbacks.h</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\Header Files\SIST_HIDRO.h</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\Source Files</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\Source Files\ESP.c</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\Source Files\main.c</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\Source Files\Sensores.c</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\Generated_Source</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\Generated_Source\PSoC5</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>ADC_SensordeAgua</v>
+<v>ADC_SensordeAgua\Agua</v>
+<v>ADC_SensordeAgua\Agua_Copy_01</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\TopDesign</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\Agua_Copy_01.cydwr</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\Agua_Copy_01.cydwr\Pins</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\Agua_Copy_01.cydwr\Analog</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\Agua_Copy_01.cydwr\Clocks</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\Agua_Copy_01.cydwr\Interrupts</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\Agua_Copy_01.cydwr\DMA</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\Agua_Copy_01.cydwr\System</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\Agua_Copy_01.cydwr\Directives</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\Agua_Copy_01.cydwr\Flash Security</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\Agua_Copy_01.cydwr\EEPROM</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\Header Files</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\Header Files\cyapicallbacks.h</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\Header Files\SIST_HIDRO.h</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\Source Files</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\Source Files\ESP.c</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\Source Files\main.c</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\Source Files\Sensores.c</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\Generated_Source</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\Generated_Source\PSoC5</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\Generated_Source\PSoC5\ADC_SA1</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\Generated_Source\PSoC5\ADC_SA1_FinalBuf</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\Generated_Source\PSoC5\ADC_SA1_IntClock</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\Generated_Source\PSoC5\ADC_SA1_IRQ</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\Generated_Source\PSoC5\ADC_SA1_SAR</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\Generated_Source\PSoC5\ADC_SA1_TempBuf</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\Generated_Source\PSoC5\Clock_1</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\Generated_Source\PSoC5\cy_boot</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\Generated_Source\PSoC5\Em_EEPROM_Dynamic</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\Generated_Source\PSoC5\int_pH</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\Generated_Source\PSoC5\isr_rx2</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\Generated_Source\PSoC5\pHe</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\Generated_Source\PSoC5\pHr</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>ADC_SensordeAgua</v>
+<v>ADC_SensordeAgua\Agua</v>
+<v>ADC_SensordeAgua\Agua\TopDesign</v>
+<v>ADC_SensordeAgua\Agua\TopDesign\TopDesign.cysch</v>
+<v>ADC_SensordeAgua\Agua_Copy_01</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\TopDesign</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>ADC_SensordeAgua</v>
+<v>ADC_SensordeAgua\Agua</v>
+<v>ADC_SensordeAgua\Agua\TopDesign</v>
+<v>ADC_SensordeAgua\Agua\TopDesign\TopDesign.cysch</v>
+<v>ADC_SensordeAgua\Agua_Copy_01</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\TopDesign</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\TopDesign\TopDesign.cysch</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>ADC_SensordeAgua</v>
+<v>ADC_SensordeAgua\Agua</v>
+<v>ADC_SensordeAgua\Agua\CortexM3</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SA1.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SA1_FinalBuf_dma.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SA1_INT.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SA1_IntClock.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SA1_IRQ.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SA1_PM.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SA1_SAR.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SA1_SAR_INT.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SA1_SAR_PM.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SA1_TempBuf_dma.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\Clock_1.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\ESP.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\int_pH.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\isr_rx2.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\pHe.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\pHr.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\Pin_Bomba.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\Pin_LED.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\Pin_LED_R.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\Pin_LED_V.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\Pin_PH.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\Pin_S_A.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\Pin_S_A_1.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\PWM.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\PWM_PM.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\resetTimerpH.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\resetTimerpH_PM.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\Sensores.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\timer_clock.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\timerpH.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\timerpH_PM.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_ESP.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_ESP_BOOT.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_ESP_INT.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_ESP_IntClock.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_ESP_PM.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_PSOC.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_PSOC_BOOT.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_PSOC_INT.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_PSOC_IntClock.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_PSOC_PM.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Agua.elf</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Agua.hex</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Agua.map</v>
+<v>ADC_SensordeAgua\Agua\Agua.gpdsc</v>
+<v>ADC_SensordeAgua\Agua\Agua.rpt</v>
+<v>ADC_SensordeAgua\Agua\Agua_timing.html</v>
+<v>ADC_SensordeAgua\Agua_Copy_01</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\CortexM3</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\CortexM3\ARM_GCC_541</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\CortexM3\ARM_GCC_541\Debug</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\CortexM3\ARM_GCC_541\Debug\Agua_Copy_01.elf</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\CortexM3\ARM_GCC_541\Debug\Agua_Copy_01.hex</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\CortexM3\ARM_GCC_541\Debug\Agua_Copy_01.map</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\Agua_Copy_01.gpdsc</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\Agua_Copy_01.rpt</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\Agua_Copy_01_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>ADC_SensordeAgua</v>
+<v>ADC_SensordeAgua\Agua</v>
+<v>ADC_SensordeAgua\Agua\CortexM3</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SA1.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SA1_FinalBuf_dma.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SA1_INT.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SA1_IntClock.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SA1_IRQ.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SA1_PM.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SA1_SAR.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SA1_SAR_INT.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SA1_SAR_PM.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SA1_TempBuf_dma.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\Clock_1.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\ESP.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\int_pH.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\isr_rx2.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\pHe.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\pHr.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\Pin_Bomba.lst</v>
+<v>ADC_SensordeAgua\Agua\CortexM3\ARM_GCC_541\Debug\Listing Files\Pin_LED.lst</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>ADC_SensordeAgua</v>
+<v>ADC_SensordeAgua\Agua</v>
+<v>ADC_SensordeAgua\Agua\PSoC 5LP Architecture TRM</v>
+<v>ADC_SensordeAgua\Agua\CY8C58LP Family Datasheet</v>
+<v>ADC_SensordeAgua\Agua\System Reference Guides</v>
+<v>ADC_SensordeAgua\Agua\System Reference Guides\cy_boot_v6_10</v>
+<v>ADC_SensordeAgua\Agua\ADC_SAR_SEQ_v2_10.pdf</v>
+<v>ADC_SensordeAgua\Agua\cy_clock_v2_20</v>
+<v>ADC_SensordeAgua\Agua\cy_clock_v2_20\cy_clock_v2_20.pdf</v>
+<v>ADC_SensordeAgua\Agua\cy_isr_v1_71</v>
+<v>ADC_SensordeAgua\Agua\cy_isr_v1_71\cy_isr_v1_71.pdf</v>
+<v>ADC_SensordeAgua\Agua\cy_pins_v2_20</v>
+<v>ADC_SensordeAgua\Agua\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>ADC_SensordeAgua\Agua\CyControlReg_v1_80.pdf</v>
+<v>ADC_SensordeAgua\Agua\PWM_v3_30.pdf</v>
+<v>ADC_SensordeAgua\Agua\Timer_v2_80.pdf</v>
+<v>ADC_SensordeAgua\Agua\UART_v2_50</v>
+<v>ADC_SensordeAgua\Agua\UART_v2_50\UART_v2_50.pdf</v>
+<v>ADC_SensordeAgua\Agua_Copy_01</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\PSoC 5LP Architecture TRM</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\CY8C58LP Family Datasheet</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\System Reference Guides</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\System Reference Guides\cy_boot_v6_10</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\ADC_SAR_SEQ_v2_10.pdf</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\cy_clock_v2_20</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\cy_clock_v2_20\cy_clock_v2_20.pdf</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\cy_isr_v1_71</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\cy_isr_v1_71\cy_isr_v1_71.pdf</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\cy_pins_v2_20</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\CyControlReg_v1_80.pdf</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\PWM_v3_30.pdf</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\Timer_v2_80.pdf</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\UART_v2_50</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\UART_v2_50\UART_v2_50.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>ADC_SensordeAgua</v>
+<v>ADC_SensordeAgua\Agua</v>
+<v>ADC_SensordeAgua\Agua\PSoC 5LP Architecture TRM</v>
+<v>ADC_SensordeAgua\Agua\CY8C58LP Family Datasheet</v>
+<v>ADC_SensordeAgua\Agua\System Reference Guides</v>
+<v>ADC_SensordeAgua\Agua\System Reference Guides\cy_boot_v6_10</v>
+<v>ADC_SensordeAgua\Agua\ADC_SAR_SEQ_v2_10.pdf</v>
+<v>ADC_SensordeAgua\Agua\cy_clock_v2_20</v>
+<v>ADC_SensordeAgua\Agua\cy_clock_v2_20\cy_clock_v2_20.pdf</v>
+<v>ADC_SensordeAgua\Agua\cy_isr_v1_71</v>
+<v>ADC_SensordeAgua\Agua\cy_isr_v1_71\cy_isr_v1_71.pdf</v>
+<v>ADC_SensordeAgua\Agua\cy_pins_v2_20</v>
+<v>ADC_SensordeAgua\Agua\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>ADC_SensordeAgua\Agua\CyControlReg_v1_80.pdf</v>
+<v>ADC_SensordeAgua\Agua\PWM_v3_30.pdf</v>
+<v>ADC_SensordeAgua\Agua\Timer_v2_80.pdf</v>
+<v>ADC_SensordeAgua\Agua\UART_v2_50</v>
+<v>ADC_SensordeAgua\Agua\UART_v2_50\UART_v2_50.pdf</v>
+<v>ADC_SensordeAgua\Agua_Copy_01</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\PSoC 5LP Architecture TRM</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\CY8C58LP Family Datasheet</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\System Reference Guides</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\System Reference Guides\cy_boot_v6_10</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\ADC_SAR_SEQ_v2_10.pdf</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\cy_clock_v2_20</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\cy_clock_v2_20\cy_clock_v2_20.pdf</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\cy_isr_v1_71</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\cy_isr_v1_71\cy_isr_v1_71.pdf</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\cy_pins_v2_20</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\CyControlReg_v1_80.pdf</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\PWM_v3_30.pdf</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\Timer_v2_80.pdf</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\UART_v2_50</v>
+<v>ADC_SensordeAgua\Agua_Copy_01\UART_v2_50\UART_v2_50.pdf</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+<dataGuid v="5f2be1a5-0687-4501-bb8c-cf21cb8211bf">
+<CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf type_name="CyDesigner.Common.ProjMgmt.GUI.CyBookmarkData" version="1">
+<indicators />
+</CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\Agua_Copy_01.cydsn\main.c" />
+<name v=".\Agua_Copy_01.cydsn\SIST_HIDRO.h" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1162, 447" SelectedTabbedMdiWindow="a7116e77-6157-4390-b095-339c31898d2f"><DocumentWindow Key="C:\Users\UCA-Master\Documents\PSoC Creator\ADC_SensordeAgua\Agua_Copy_01.cydsn\main.c" Guid="a7116e77-6157-4390-b095-339c31898d2f" /><DocumentWindow Key="C:\Users\UCA-Master\Documents\PSoC Creator\ADC_SensordeAgua\Agua_Copy_01.cydsn\SIST_HIDRO.h" Guid="d81b0094-6e48-4633-af52-1f4ec37a9942" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>

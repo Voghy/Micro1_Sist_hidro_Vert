@@ -1,0 +1,6 @@
+C:\Users\UCA-Master\Documents\PSoC Creator\ADC_SensordeAgua\Agua.cydsn\Agua.cyprj|831b260f-eb5a-47f2-864b-b141df0ceac8
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|7b4fe414-f522-4f38-8b0b-c37b6ec7f3d2
+C:\Users\UCA-Master\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|c1e34f94-b20c-42b2-9fb0-4dc26e449892
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|698ac56d-f890-4263-8931-07439c6d5f7c
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|3586cee1-78cf-4ded-a0ab-202d709ea348
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|cefb8550-ac17-475a-87a3-49926f0295ad
